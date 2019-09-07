@@ -1,0 +1,26 @@
+{
+  "name": "sitting-plan",
+  "version": "1.0.0",
+  "description": "My prime Nuxt.js project",
+  "author": "Mert Demir",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cross-env": "^5.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.11",
+    "nuxt": "^2.0.0",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
